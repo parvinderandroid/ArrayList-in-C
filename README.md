@@ -16,4 +16,4 @@ List *a = initialise();
 
 There is a very easy to read `Documentation.md` included in this repository.
 
-The Demo.c file has a dedicated function to demonstrate the working of each function.
+The `Demo.c` file has a dedicated function to demonstrate the working of each function.
