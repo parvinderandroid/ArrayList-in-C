@@ -4,7 +4,7 @@ This is a small library that will give you the power of Java's ArrayList in C.
 
 # Installation
 
-Just include `ArrayList.h` in your program and you're good to go.
+Just include [ArrayList.h](ArrayList.h) in your program and you're good to go.
 
 # How to use
 
@@ -14,7 +14,7 @@ Creating and initialising a List is as simple as:
 List *a = initialise();
 ```
 
-The `Demo.c` file has a dedicated function to demonstrate the working of each function.
+The [Demo.c](Demo.c) file has a dedicated function to demonstrate the working of each function.
 
 # Documentation
 
